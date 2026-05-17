@@ -1,0 +1,230 @@
+{
+  "profile": {
+    "name": "Jeevithan R R",
+    "shortName": "Jeevithan",
+    "title": "Full Stack Developer",
+    "subtitle": "& Data Analyst",
+    "tagline": "Architecting AI-powered systems at the intersection of elegant engineering and actionable intelligence.",
+    "bio": "B.Tech Computer Science (AI) engineer who ships production-grade MERN applications and predictive analytics models. From enterprise payroll SaaS to clinical risk engines — I build software that is scalable, intelligent, and beautifully crafted.",
+    "location": "Hosur, Tamil Nadu, India",
+    "email": "jeevithanr@karunya.edu.in",
+    "phone": "+91 9345588149",
+    "photo": "/src/assets/photo.jpg",
+    "socials": {
+      "github": "https://github.com/JEEVITHANRR",
+      "linkedin": "https://linkedin.com/in/jeevithan-r-r-348226264",
+      "twitter": ""
+    },
+    "stats": [
+      { "label": "Projects Shipped", "value": "10", "suffix": "+" },
+      { "label": "Cost Savings Surfaced", "value": "2.4", "suffix": "M+" },
+      { "label": "ML Model Accuracy", "value": "88", "suffix": "%" },
+      { "label": "Certifications", "value": "7", "suffix": "" }
+    ]
+  },
+  "projects": [
+    {
+      "id": "payro",
+      "title": "Payro",
+      "subtitle": "Enterprise Payroll & Workforce Intelligence",
+      "description": "Scalable enterprise payroll SaaS with RBAC-driven workforce management across 7+ institutional roles. AI-powered analytics with performance scoring, reliability indexing, and glassmorphism dashboards.",
+      "stack": ["React", "Node.js", "Prisma", "PostgreSQL", "Redis", "Framer Motion"],
+      "link": "https://payropayro-frontend.onrender.com",
+      "github": "",
+      "year": "2025",
+      "category": "SaaS Platform",
+      "metrics": [
+        { "label": "User Roles", "value": "7+" },
+        { "label": "Deployment", "value": "CI/CD" },
+        { "label": "Data Export", "value": "CSV" }
+      ],
+      "highlight": true,
+      "color": "#6D1F1F"
+    },
+    {
+      "id": "talentmatch",
+      "title": "TalentMatch",
+      "subtitle": "AI-Powered Job Matching Platform",
+      "description": "MERN Stack recruitment platform with OpenAI GPT-4o-mini resume parsing, JWT/RBAC auth, Swagger UI docs, secured APIs, and recruiter dashboard with real-time job aggregation.",
+      "stack": ["React.js", "Node.js", "MongoDB", "OpenAI API", "JWT", "Swagger"],
+      "link": "https://talentmatch-v2-client.vercel.app",
+      "github": "",
+      "year": "2025",
+      "category": "AI Application",
+      "metrics": [
+        { "label": "AI Model", "value": "GPT-4o" },
+        { "label": "Auth", "value": "JWT/RBAC" },
+        { "label": "Docs", "value": "Swagger" }
+      ],
+      "highlight": true,
+      "color": "#4A0E0E"
+    },
+    {
+      "id": "clinical",
+      "title": "Clinical Risk Analytics",
+      "subtitle": "Healthcare Cost Intelligence Platform",
+      "description": "Predicted 30-day readmission risk across 6 conditions for 1,200+ patients. Surfaced $2.4M+ projected savings and cut manual chart review time by 40%.",
+      "stack": ["Python", "SQL", "Power BI", "Tableau", "Scikit-learn"],
+      "link": "",
+      "github": "",
+      "year": "2025",
+      "category": "Data Analytics",
+      "metrics": [
+        { "label": "Savings", "value": "$2.4M+" },
+        { "label": "Patients", "value": "1,200+" },
+        { "label": "Time Saved", "value": "40%" }
+      ],
+      "highlight": true,
+      "color": "#8B0000"
+    },
+    {
+      "id": "retail-nlp",
+      "title": "Retail Intelligence NLP",
+      "subtitle": "Inventory & Financial Sentiment Pipeline",
+      "description": "Dead-stock risk model identifying $27,790+ in locked capital. LR, Naive Bayes, and SVM ensemble trained on 5,000+ financial headlines — 88%+ NLP accuracy.",
+      "stack": ["Python", "NLTK", "Scikit-learn", "Power BI", "SQL"],
+      "link": "",
+      "github": "",
+      "year": "2025",
+      "category": "ML Pipeline",
+      "metrics": [
+        { "label": "Capital Found", "value": "$27K+" },
+        { "label": "NLP Accuracy", "value": "88%+" },
+        { "label": "Headlines", "value": "5,000+" }
+      ],
+      "highlight": false,
+      "color": "#B22222"
+    },
+    {
+      "id": "saas-analytics",
+      "title": "SaaS Analytics Platform",
+      "subtitle": "Business Intelligence Dashboard",
+      "description": "Full-stack analytics SaaS with real-time KPI tracking, cohort analysis, funnel visualization, and executive reporting — built on a React + Node.js microservice stack.",
+      "stack": ["React", "Node.js", "Recharts", "PostgreSQL", "Docker"],
+      "link": "",
+      "github": "",
+      "year": "2025",
+      "category": "SaaS Platform",
+      "metrics": [
+        { "label": "Charts", "value": "12+" },
+        { "label": "Data Points", "value": "Real-time" },
+        { "label": "Export", "value": "PDF/CSV" }
+      ],
+      "highlight": false,
+      "color": "#6D1F1F"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Frontend",
+      "skills": [
+        { "name": "React.js", "icon": "⚛️" },
+        { "name": "TypeScript", "icon": "🔷" },
+        { "name": "Tailwind CSS", "icon": "🎨" },
+        { "name": "Framer Motion", "icon": "🎬" },
+        { "name": "Vite", "icon": "⚡" },
+        { "name": "Three.js", "icon": "🌐" }
+      ]
+    },
+    {
+      "name": "Backend",
+      "skills": [
+        { "name": "Node.js", "icon": "🟢" },
+        { "name": "Express.js", "icon": "🚀" },
+        { "name": "REST APIs", "icon": "🔌" },
+        { "name": "JWT Auth", "icon": "🔐" },
+        { "name": "Swagger", "icon": "📖" },
+        { "name": "Redis", "icon": "🔴" }
+      ]
+    },
+    {
+      "name": "Data & AI",
+      "skills": [
+        { "name": "Python", "icon": "🐍" },
+        { "name": "Scikit-learn", "icon": "🤖" },
+        { "name": "Pandas", "icon": "🐼" },
+        { "name": "NLP", "icon": "💬" },
+        { "name": "OpenAI API", "icon": "🧠" },
+        { "name": "Power BI", "icon": "📊" }
+      ]
+    },
+    {
+      "name": "Database & Cloud",
+      "skills": [
+        { "name": "PostgreSQL", "icon": "🐘" },
+        { "name": "MongoDB", "icon": "🍃" },
+        { "name": "Prisma", "icon": "◈" },
+        { "name": "Docker", "icon": "🐳" },
+        { "name": "GCP", "icon": "☁️" },
+        { "name": "Firebase", "icon": "🔥" }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "id": "micro1",
+      "company": "Micro1",
+      "role": "Certified Full Stack Developer & Data Analyst",
+      "period": "2025",
+      "type": "Certification",
+      "description": "Dual industry certification validating proficiency in Python, JavaScript, Power BI, and AI-driven analytics benchmarked against Silicon Valley standards.",
+      "highlights": [
+        "Dual certification across Full Stack & Data Analytics tracks",
+        "Benchmarked against global engineering competency standards",
+        "Validated in Python, JavaScript, Power BI, and AI analytics"
+      ]
+    },
+    {
+      "id": "quantium",
+      "company": "Quantium · Forage",
+      "role": "Data Analytics Job Simulation",
+      "period": "2025",
+      "type": "Simulation",
+      "description": "Analyzed 245,000+ retail transactions across 21 segments. Built control store selection model using Pearson correlation and MAD scoring across 270 stores.",
+      "highlights": [
+        "245,000+ transactions analyzed across 21 customer segments",
+        "Pearson correlation & MAD scoring model for 270 stores",
+        "Validated via paired t-tests and A/B testing frameworks"
+      ]
+    },
+    {
+      "id": "deloitte",
+      "company": "Deloitte Australia · Forage",
+      "role": "Data Analytics Job Simulation",
+      "period": "2025",
+      "type": "Simulation",
+      "description": "Consulting-style simulation covering forensic data interpretation, hypothesis testing, and client-ready analytical output aligned with Deloitte standards.",
+      "highlights": [
+        "Forensic data interpretation and hypothesis testing",
+        "Client-ready analytical deliverables at Deloitte standard",
+        "Data storytelling across complex business scenarios"
+      ]
+    },
+    {
+      "id": "devskills",
+      "company": "DevSkills – Data Hub (AICTE)",
+      "role": "Python Programming Intern",
+      "period": "Nov 2024 – Present",
+      "type": "Internship",
+      "description": "Engineered 10+ Python ETL automation scripts and solved 30+ data engineering challenges covering pipeline development and API integration.",
+      "highlights": [
+        "10+ Python ETL automation scripts with Pandas & NumPy",
+        "30+ data engineering challenges completed with distinction",
+        "Pipeline development and API integration at scale"
+      ]
+    }
+  ],
+  "analyticsStats": [
+    { "label": "Transactions Analyzed", "value": "245K+", "delta": "+12%", "positive": true },
+    { "label": "Cost Savings Surfaced", "value": "$2.4M", "delta": "+40%", "positive": true },
+    { "label": "Model Accuracy", "value": "88%+", "delta": "+6%", "positive": true },
+    { "label": "Chart Review Time", "value": "−40%", "delta": "Optimized", "positive": true },
+    { "label": "NLP Headlines", "value": "5,000+", "delta": "Trained", "positive": true },
+    { "label": "Capital Unlocked", "value": "$27K+", "delta": "Recovered", "positive": true }
+  ],
+  "techIcons": [
+    "React", "TypeScript", "Node.js", "Python", "PostgreSQL", "MongoDB",
+    "Redis", "Docker", "Tailwind", "Framer Motion", "OpenAI", "Power BI",
+    "Scikit-learn", "Prisma", "GCP", "Tableau", "NLTK", "Express.js"
+  ]
+}
