@@ -2,6 +2,7 @@ import { useRef, useEffect, lazy, Suspense } from 'react';
 import { motion, useMotionValue, useSpring, useTransform } from 'framer-motion';
 import { ArrowDown, Github, Linkedin, Mail } from 'lucide-react';
 import type { Profile } from '../types/portfolio';
+import photo from '../assets/photo.jpg';
 
 const Scene3D = lazy(() => import('./Scene3D'));
 
@@ -149,7 +150,7 @@ export default function HeroSection({ profile }: Props) {
 
             <div className="w-72 h-80 md:w-80 md:h-[380px] rounded-[2rem] overflow-hidden glass-card shadow-luxury-lg">
               <img
-                src="/src/assets/photo.jpg"
+                src={photo}
                 alt={profile.name}
                 className="w-full h-full object-cover object-top"
                 onError={(e) => {
